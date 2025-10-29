@@ -91,7 +91,7 @@
     "react-resizable-panels": "^3.0.2",
     "react-select": "^5.10.0",
     "react-sortable-hoc": "^2.0.0",
-    "react-syntax-highlighter": "^15.5.0",
+    "react-syntax-highlighter": "^16.0.0",
     "react-textarea-autosize": "^8.3.4",
     "react-transition-group": "^4.4.5",
     "remark-gfm": "4.0.0",
